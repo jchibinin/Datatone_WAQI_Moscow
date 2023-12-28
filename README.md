@@ -33,6 +33,12 @@
 
 Альтренативное решение с графиком загрезненности воздуха по станциям https://github.com/eisakhanov/Datatone_WAQI_Moscow
 
+Участники команды:
+Эдуард Исаханов
+Артем Смирнов
+Яков Чибинин
+Владимир Ульзутуев
+
 ![Animation](https://github.com/jchibinin/Datatone_WAQI_Moscow/assets/12885639/83916d82-9f98-4827-b31c-06db4a2728fa)
 
 
